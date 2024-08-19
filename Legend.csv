@@ -1,0 +1,9 @@
+ID,Rule,Colour,Problem Indicated
+1,Rule 1,#FF5733,Value is significantly out of control
+2,Rule 2,#33FF57,Prolonged bias
+3,Rule 3,#3357FF,A trend exists
+4,Rule 4,#FF33A1,Extended oscillation
+5,Rule 5,#FFD733,Medium tendency for samples to be mediumly out of control
+6,Rule 6,#8C33FF,Strong tendency for samples to be slightly out of control
+7,Rule 7,#33FFF1,Greater variation would be expected
+8,Rule 8,#FF8C33,Significant oscillation
